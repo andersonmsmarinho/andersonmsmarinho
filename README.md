@@ -1,4 +1,4 @@
-## Olá, mundo! 👋
+## Bem-vindo, companheiro! 👋
 
 Apaixonado por tecnologia, meu primeiro contato foi aos 11 anos através de oficinas de informática no ensino fundamental. Aos 14 anos, já dominava tecnologias de desenvolvimento para internet, tanto de front-end (HTML, CSS, Javascript), quanto de back-end (PHP) e banco de dados (SQL, MySQL).
 
