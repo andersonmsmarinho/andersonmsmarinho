@@ -1,7 +1,1 @@
-## Bem-vindo, companheiro! 👋
-
-Apaixonado por tecnologia, meu primeiro contato foi aos 11 anos através de oficinas de informática no ensino fundamental. Aos 14 anos, já dominava tecnologias de desenvolvimento para internet, tanto de front-end (HTML, CSS, Javascript), quanto de back-end (PHP) e banco de dados (SQL, MySQL).
-
-Entretanto, após seguir uma carreira em finanças e bancos por quase 4 anos, iniciei a migração para área de tecnologia ainda em 2022, participando de competições de startups, intensificação dos estudos na área de tecnologia e iniciando a graduação em Sistemas para Internet na Universidade Católica de Pernambuco.
-
-Hoje, possuo amplo conhecimento técnico a respeito de linguagens de programação, engenharia de software, gestão de projetos e de negócios, graças as experiências em múltiplos projetos acadêmicos e profissionais.
+Master's in Computer Science (Cin-UFPE, 2027). MBA Postgraduate in Software Engineering (USP, 2027). Bachelor's in Business Administration (FAM, 2025). Technologist in Internet Systems (Catholic University of Pernambuco, 2026). Hobbyist programmer for over 10 years. Over 6 years of experience, 4 of them in finance and sales at financial institutions such as Itaú Unibanco, Sicredi, and Chevrolet. Recognized by major institutions including the City Hall of Recife, Porto Digital, and LIMCS for my work on innovative projects.
